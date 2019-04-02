@@ -5,4 +5,4 @@
 ## 命名规范
 NO-SUBNO-TITLE.md
 ## 链接跳转语法
-[title](filename)
+```[title](filename)```
