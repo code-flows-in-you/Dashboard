@@ -28,8 +28,8 @@
   * 9.1 XX短视频
   * 9.2 XX短视频
 * X1 meeting-records
-  * [iteration1](X1-meeting1.md)
-* inception meeting (yy/mm/dd)
+  * [iteration1](X1-meeting1)
+  * inception meeting (yy/mm/dd)
 * X2 KANBAN
 * X3 auditing-records
 * X4 Tech/Work Report
