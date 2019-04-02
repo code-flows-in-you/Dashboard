@@ -2,7 +2,7 @@
   
 
 * 1、About（项目概况）
-* 2、Team profile（团队组建与分工）
+* 2、[Team profile（团队组建与分工）](02-team-profile)
 * 3、Investigation（项目前期调研/竞品分析）
 * 4、Vision（项目愿景）
 * 5、Product Backlog （产品特性库）
