@@ -25,6 +25,6 @@ XX为index内相应序号，文件名全小写，如有空格使用"-"代替
 
 ## 参考资料
 你也想搭建如此简洁方便的dashboard网站？请浏览以下网站  
-> https://nicolas-van.github.io/easy-markdown-to-github-pages/  
+> [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 
