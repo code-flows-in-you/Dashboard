@@ -16,9 +16,14 @@
 * 7、Design（设计说明书）
   * 7.1 UI design（界面设计）
   * 7.2 Database design（数据库设计）
+    * 7.2.1 用户及权限系统数据库设计
+    * 7.2.2 调查问卷数据库设计
+    * 7.2.3 第三方数据评审结果
   * 7.3 Interface API design（接口 API 设计）
   * 7.4 Architecture design（架构设计）
   * 7.5 Usecase design（用例设计）
+    * 7.5.1 发起问卷调查用例设计
+    * 7.5.2 XXXXX用例设计
 * 8、生产规范与指南
   * 8.1 [代码规范](08-01-coding-standard)
   * 8.2 [REST API 设计规范](08-02-RESTful-api-design-standard)
