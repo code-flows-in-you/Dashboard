@@ -18,7 +18,7 @@
   * 7.2 Database design（数据库设计）
     * 7.2.1 用户及权限系统数据库设计
     * 7.2.2 调查问卷数据库设计
-    * 7.2.3 第三方数据评审结果
+    * 7.2.3 [第三方数据评审结果](https://github.com/code-flows-in-you/Dashboard/issues)
   * 7.3 Interface API design（接口 API 设计）
   * 7.4 Architecture design（架构设计）
   * 7.5 Usecase design（用例设计）
