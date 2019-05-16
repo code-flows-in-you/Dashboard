@@ -1,6 +1,13 @@
 # 用例图
 下图为整个系统的用例一览, (在下面有各个子用例图, 未画)
-![](UseCases/UseCases.png)
+![](UseCases/UseCases.png)    
+
+# 子用例图 
+- 学生/组织管理系统    
+![](UseCases/register_login.png)    
+
+- 任务管理系统    
+![](UseCases/mission_system.png)    
 
 # 用例文本与活动图(待修改)
 整个系统按照业务划分为下面几个用例，用例文本引用了子用例图，并添有必要的活动图辅助说明。
