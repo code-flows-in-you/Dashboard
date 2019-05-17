@@ -24,7 +24,7 @@ Introduce something for your team
 |16340109|  | [Xungerrrr](https://github.com/Xungerrrr) | 产品经理 |    
 |16340114|  | [Ray](https://github.com/Illidan27) | js工程师 |    
 |16340115|  | [smiletomisery](https://github.com/smiletomisery) | 开发工程师 |    
-|16340116| pachi | [Alicizations](https://github.com/Alicizations) | 架构师、开发工程师 |    
+|16340116| pachi | [Alicizations](https://github.com/Alicizations) | DevOps、开发工程师 |    
 |16340117|  | [zhulinyin](https://github.com/zhulinyin) | UI/UX设计师 |    
 |16340141|  | [Yuuoniy](https://github.com/Yuuoniy) | js工程师 |    
 
