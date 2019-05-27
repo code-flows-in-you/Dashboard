@@ -9,7 +9,7 @@
 * 6、Requirement specification（需求规格说明书）
   * [6.1 Usecase Diagram（用例图）](06-01-Use-Cases-Diagram)
   * 6.2 Use Cases（用例+活动图）
-  * 6.3 Domian Models（领域模型）
+  * [6.3 Domian Models（领域模型）](06-03-Domain-Model-Diagram)
   * 6.4 State Models（状态模型）
   * 6.5 System Sequence Diagrams（功能模型）
   * 6.6 Supplementary Requirements（补充需求）
