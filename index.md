@@ -1,5 +1,5 @@
 # 项目文档目录
-  
+
 
 * 1、[About（项目概况）](01-about)
 * 2、[Team profile（团队组建与分工）](02-team-profile)
@@ -14,7 +14,7 @@
   * 6.5 System Sequence Diagrams（功能模型）
   * 6.6 Supplementary Requirements（补充需求）
 * 7、Design（设计说明书）
-  * 7.1 UI design（界面设计）
+  * [7.1 UI design（界面设计）](07-01-UI-design)
   * 7.2 Database design（数据库设计）
     * 7.2.1 用户及权限系统数据库设计
     * 7.2.2 调查问卷数据库设计

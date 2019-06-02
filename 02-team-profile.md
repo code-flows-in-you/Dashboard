@@ -19,14 +19,14 @@ Introduce something for your team
 
 ## 2、团队分工
 
-|学号|昵称|Github|岗位角色|    
-|:--:|:--:|:--:|:--:|    
-|16340109|  | [Xungerrrr](https://github.com/Xungerrrr) | 产品经理 |    
-|16340114|  | [Ray](https://github.com/Illidan27) | js工程师 |    
-|16340115|  | [smiletomisery](https://github.com/smiletomisery) | 开发工程师 |    
-|16340116| pachi | [Alicizations](https://github.com/Alicizations) | DevOps、开发工程师 |    
-|16340117|  | [zhulinyin](https://github.com/zhulinyin) | UI/UX设计师 |    
-|16340141|  | [Yuuoniy](https://github.com/Yuuoniy) | js工程师 |    
+|学号|昵称|Github|岗位角色|
+|:--:|:--:|:--:|:--:|
+|16340109|  | [Xungerrrr](https://github.com/Xungerrrr) | 产品经理 |
+|16340114|  | [Ray](https://github.com/Illidan27) | js工程师 |
+|16340115|  | [smiletomisery](https://github.com/smiletomisery) | 开发工程师 |
+|16340116| pachi | [Alicizations](https://github.com/Alicizations) | DevOps、开发工程师 |
+|16340117| zhulinyin | [zhulinyin](https://github.com/zhulinyin) | UI/UX设计师 |
+|16340141|  | [Yuuoniy](https://github.com/Yuuoniy) | js工程师 |
 
 
 * 管理岗：项目经理、客户经理、产品经理
@@ -37,6 +37,7 @@ Introduce something for your team
 
 **具体分工与个人宣言**
 
-| 昵称 | 分工内容 | 个人宣言 |    
-|:--:|:--:|:--:|    
-| pachi | 负责架构设计、后端技术开发 | 冲啊 |    
+| 昵称 | 分工内容 | 个人宣言 |
+|:--:|:--:|:--:|
+| pachi | 负责架构设计、后端技术开发 | 冲啊 |
+| zhulinyin | 负责UI/UX设计 | 希望能百分百还原我的设计图 |
