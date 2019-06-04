@@ -16,7 +16,7 @@
 * 7、Design（设计说明书）
   * [7.1 UI design（界面设计）](07-01-UI-design)
   * 7.2 Database design（数据库设计）
-    * 7.2.1 用户及权限系统数据库设计
+    * [7.2.1 用户及权限系统数据库设计](07-02-Database-design)
     * 7.2.2 调查问卷数据库设计
     * 7.2.3 [第三方数据评审结果](https://github.com/code-flows-in-you/Dashboard/issues)
   * 7.3 Interface API design（接口 API 设计）
