@@ -54,3 +54,5 @@ get方法参数有误
 已经回答过了
 # get question or option fail 
 获取 问题/选项 失败
+# get json data error
+请求body中的json数据转换失败
