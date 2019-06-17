@@ -40,7 +40,7 @@
 * X2 KANBAN
 * X3 auditing-records
 * X4 Tech/Work Report
-  * 学号-title
+  * [16340116-后端部署](https://alicizations.github.io/2019/05/07/Nginx-uwsgi-Django%E9%83%A8%E7%BD%B2/)
 * X5 Final Report
   * 学号-title
   * 小组分工与贡献率说明
