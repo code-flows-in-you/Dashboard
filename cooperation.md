@@ -6,4 +6,6 @@
 
 - @pachi (Server & API Document & Dashboard)
 
-![](./image/1.png)![](./image/2.png)![](./image/3.png)
+  
+
+  <img src='./image/1.png' width=400> <img src='./image/2.png' width=400> <img src='./image/3.png' width=400>
