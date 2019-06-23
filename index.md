@@ -21,7 +21,7 @@
   * 7.3 Interface API design(接口 API 设计)
     * [7.3.1 API Document](https://code-flows-in-you.github.io/API-document/)
     * [7.3.2 后端返回信息](07-03-server-res)
-  * 7.4 Architecture design(架构设计)
+  * [7.4 Architecture design(架构设计)](07-04-Architecture-design)
   * 7.5 Usecase design(用例设计)
     * 7.5.1 发起问卷调查用例设计
     * 7.5.2 XXXXX用例设计
@@ -29,7 +29,7 @@
   * 8.1 [代码规范](08-01-coding-standard)
   * 8.2 [REST API 设计规范](08-02-RESTful-api-design-standard)
   * 8.3 [架构设计、详细设计(BCE方法)到应用程序框架映射指南](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
-  * 8.4 部署说明
+  * 8.4 [部署说明](08-04-Deployment-instructions)
 * 9、成品展示
   * 9.1 XX短视频
   * 9.2 XX短视频
