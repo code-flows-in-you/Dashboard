@@ -15,7 +15,7 @@
 
 ## 测试用例
 
-###Account
+### Account
 
 #### 1a. POST(/account/) 注册账号
 
@@ -81,7 +81,7 @@
 | ---- | ---- |
 | 未登录登出检查 | Y |
 
-###Assignment
+### Assignment
 
 #### 2a. GET(/assignment) 获取最近20个任务
 
@@ -128,7 +128,7 @@
 | 返回字段检查 | Y |
 | 字段格式检查 | Y |
 
-###Questionnaire
+### Questionnaire
 
 #### 3a. GET(/questionnaire/{aid}) 获取id=aid的问卷
 
@@ -170,7 +170,7 @@
 | 返回字段检查 | Y |
 | 字段格式检查 | Y |
 
-###Question & Answer
+### Question & Answer
 
 #### 4a. GET(/qa/{aid}) 获取id=aid的懂了么
 
@@ -213,7 +213,7 @@
 | ---- | ---- |
 | 非创建者删除检查 | Y |
 
-###Coin
+### Coin
 
 #### 5a. GET(/coin/self) 获取自身闲钱数量
 
