@@ -30,9 +30,12 @@
   * 8.2 [REST API 设计规范](08-02-RESTful-api-design-standard)
   * 8.3 [架构设计、详细设计(BCE方法)到应用程序框架映射指南](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
   * 8.4 [部署说明](08-04-Deployment-instructions)
-* 9、成品展示
-  * 9.1 XX短视频
-  * 9.2 XX短视频
+* 9、测试
+  * 9.1 [测试方案](09-01-Testing-plan)
+  * 9.2 [后端api测试](09-02-Backend-Api-Testing)
+* 10、成品展示
+  * 10.1 XX短视频
+  * 10.2 XX短视频
 * X1 meeting-records
   * [inception meeting (2019/03/30)](X1-inception-meeting)
   * [iteration1-meeting (2019/05/25)](X1-iteration1-meeting)
