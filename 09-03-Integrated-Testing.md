@@ -127,7 +127,7 @@
  - Jmeter后端性能测试
 并发数量为10时，部分API的测试报告：
 
-![后端_10线程](../TestingReport/后端_10.png)
+![后端_10线程](../TestingReport/后端_10.JPG)
 
 
 
@@ -135,11 +135,11 @@
 
 并发数量为10时，部分网页接口的测试报告：
 
-![网页_10线程](../TestingReport/网页_10.png)
+![网页_10线程](../TestingReport/网页_10.JPG)
 
  - postman接口测试
  并发数量为100时的测试报告：
-![后端_100线程](../TestingReport/postman.png)
+![后端_100线程](../TestingReport/postman.JPG)
 
 
 
