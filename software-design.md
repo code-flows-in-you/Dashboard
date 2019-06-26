@@ -118,8 +118,90 @@ SQLite 提供了数据的持久化服务
 
 ## 3.2 后端
 
+- router
+
+  负责将 HTTP 请求转交给合适的 controller 处理
+
+  ```python
+  urlpatterns = [
+      path('', views.register, name='register'),
+      path('session', views.session, name='session'),
+      path('<int:t_uid>', views.getInfo, name='getInfo'),
+      path('self', views.self, name='self'),
+      path('password', views.changePassword, name='changePassword'),
+      path('avatar', views.uploadAvatar, name='uploadAvatar'),
+  ]
+  ```
+
+  
+
+- controller
+
+  处理 HTTP 请求，收集参数，进行简单的参数格式验证，并调用 service, 必要时要验证是否为登录用户
+
+  ```python
+  # 检查登录状态
+  if 'login_id' not in request.session:
+      return failMSG('no login')
+  
+  # 获取json数据
+  try:
+      rdata = json.loads(request.body)
+  except Exception as e:
+      return failMSG('get json data error')
+  ```
+
+  
+
+- service
+
+  处理业务逻辑, 分为几个小模块
+
+  - account: 负责用户账户管理
+  - assignment: 任务管理
+  - questionnaire: 问卷管理
+  - qa: 问答管理
+  - coin: 闲钱管理
+
+  ```python
+  urlpatterns = [
+      path('testdev/', include('testdev.urls')),
+      path('account/', include('account.urls')),
+      path('coin/', include('coin.urls')),
+      path('assignment/', include('assignment.urls')),
+      path('questionnaire/', include('questionnaire.urls')),
+      path('qa/', include('qa.urls')),
+      path('admin/', admin.site.urls),
+  ]
+  ```
+
+  
+
+- model
+
+  负责与数据库的交互
+
+  ```python
+  class UserCoin(models.Model):
+      Self = models.ForeignKey(User, on_delete = models.CASCADE, related_name = 'coins')
+      Coin = models.IntegerField(default = 100)
+  
+      def __str__(self):
+          return '%s: [%d]' % (self.Self.Nickname, self.Coin)
+  ```
+
+  
+
 # 4. API设计
 
 API 规范:[REST API](https://code-flows-in-you.github.io/Dashboard/08-02-RESTful-api-design-standard)
 
 API 文档:[Swagger](https://code-flows-in-you.github.io/API-document/)
+
+
+
+# 5.测试
+
+- [测试方案](https://code-flows-in-you.github.io/Dashboard/09-01-Testing-plan)
+- [后端api测试报告](https://code-flows-in-you.github.io/Dashboard/09-02-Backend-Api-Testing)
+
