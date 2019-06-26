@@ -1,6 +1,6 @@
 # 项目文档目录
 
-
+* 0、[软件设计综合实验最终制品](00-software-design-project)
 * 1、[About(项目概况)](01-about)
 * 2、[Team profile(团队组建与分工)](02-team-profile)
 * 3、[Investigation(项目前期调研/竞品分析)](03-invest)
@@ -10,7 +10,7 @@
   * [6.1 Usecase Diagram(用例图)](06-01-Use-Cases-Diagram)
   * [6.2 Use Cases(用例+活动图)](06-02-Use-Cases-And-Activity-Diagram)
   * [6.3 Domian Models(领域模型)](06-03-Domain-Model-Diagram)
-  * 6.4 State Models(状态模型)
+  * [6.4 State Models(状态模型)](06-04-State-Model-Diagram)
   * [6.5 System Sequence Diagrams(功能模型)](06-05-System-Sequence-Diagrams)
 * 7、Design(设计说明书)
   * [7.1 UI design(界面设计)](07-01-UI-design)
