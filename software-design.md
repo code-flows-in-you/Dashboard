@@ -116,6 +116,16 @@ SQLite 提供了数据的持久化服务
 
 ## 3.1 前端
 
+- VueJS
+  - 可复用组件
+  - 页面
+- Vue-Router
+  - 前端路由
+- Vuex
+  - 全局状态管理
+- Axios
+  - 网络请求
+
 ## 3.2 后端
 
 - router
@@ -204,4 +214,3 @@ API 文档:[Swagger](https://code-flows-in-you.github.io/API-document/)
 
 - [测试方案](https://code-flows-in-you.github.io/Dashboard/09-01-Testing-plan)
 - [后端api测试报告](https://code-flows-in-you.github.io/Dashboard/09-02-Backend-Api-Testing)
-
