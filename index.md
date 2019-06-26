@@ -42,6 +42,7 @@
 * X2 [KANBAN](https://github.com/orgs/code-flows-in-you/projects)
 * X3 Tech/Work Report
   * [16340116-后端部署](https://alicizations.github.io/2019/05/07/Nginx-uwsgi-Django%E9%83%A8%E7%BD%B2/)
+  * [16340117-前端分页功能的实现]([https://zhulinyin.github.io/2019/06/26/%E4%BD%BF%E7%94%A8el-pagination%E5%AE%9E%E7%8E%B0%E5%88%86%E9%A1%B5/](https://zhulinyin.github.io/2019/06/26/使用el-pagination实现分页/))
 * X4 Final Report
   * 学号-title
   * [小组分工与贡献率说明](cooperation.md)
