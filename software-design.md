@@ -204,7 +204,35 @@ SQLite 提供了数据的持久化服务
 
   
 
-# 4 API设计
+# 4 技术与实现 
+
+## 持续集成与自动部署
+
+Server 使用 Travis-CI 进行持续集成、测试与部署，定义文件为`.travis.yml`
+
+大致如下：
+
+```yaml
+language: python
+python:
+  - 3.6
+install: true
+addons:
+  ssh_known_hosts: 118.89.65.154
+before_install:
+- openssl aes-256-cbc -K $encrypted_b0e4a20bf5fb_key -iv $encrypted_b0e4a20bf5fb_iv
+  -in id_rsa.enc -out id_rsa -d
+- eval "$(ssh-agent -s)"
+- chmod 600 id_rsa
+- ssh-add id_rsa
+script:
+  - pwd
+  - bash script/deploy.sh
+```
+
+
+
+# 5 API设计
 
 API 规范:[REST API](https://code-flows-in-you.github.io/Dashboard/08-02-RESTful-api-design-standard)
 
@@ -212,7 +240,7 @@ API 文档:[Swagger](https://code-flows-in-you.github.io/API-document/)
 
 
 
-# 5 测试
+# 6 测试
 
 - [测试方案](https://code-flows-in-you.github.io/Dashboard/09-01-Testing-plan)
 - [后端api测试报告](https://code-flows-in-you.github.io/Dashboard/09-02-Backend-Api-Testing)
