@@ -161,3 +161,15 @@
 - @Xungerrrr (Dashboard)
 
   <img src="./image/4.png" width="400">
+
+- @smiletomisery (Dashboard)
+  
+  <img src="./image/ljm1.png" width="400">
+
+  <img src="./image/ljm2.png" width="400">
+
+- @ray (Dashboard)
+  
+  <img src="./image/lhr1.png" width="400">
+
+  <img src="./image/lhr2.png" width="400">
