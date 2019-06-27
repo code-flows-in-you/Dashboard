@@ -1,4 +1,4 @@
-# 1. 技术选型及理由
+# 1 技术选型及理由
 
 ## 1.1 前端
 
@@ -47,7 +47,7 @@ SQLite
 - 有足以实现本项目需求的功能
 - Django框架自带, 不需要额外配置, 开发速度快
 
-# 2. 架构设计
+# 2 架构设计
 
 ## 2.1 逻辑架构 
 
@@ -112,7 +112,7 @@ SQLite 提供了数据的持久化服务
 
 ![](./Deploy/deploy.png)
 
-# 3. 模块划分
+# 3 模块划分
 
 ## 3.1 前端
 
@@ -202,7 +202,7 @@ SQLite 提供了数据的持久化服务
 
   
 
-# 4. API设计
+# 4 API设计
 
 API 规范:[REST API](https://code-flows-in-you.github.io/Dashboard/08-02-RESTful-api-design-standard)
 
@@ -210,7 +210,7 @@ API 文档:[Swagger](https://code-flows-in-you.github.io/API-document/)
 
 
 
-# 5.测试
+# 5 测试
 
 - [测试方案](https://code-flows-in-you.github.io/Dashboard/09-01-Testing-plan)
 - [后端api测试报告](https://code-flows-in-you.github.io/Dashboard/09-02-Backend-Api-Testing)
