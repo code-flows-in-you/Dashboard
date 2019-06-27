@@ -90,7 +90,7 @@
     <td>回归测试</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>100%</td>
     <td></td>
     <td></td>
     <td></td>
