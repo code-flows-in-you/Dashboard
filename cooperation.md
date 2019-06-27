@@ -30,31 +30,31 @@
   <tr>
     <td rowspan="2">源码</td>
     <td>前端</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>30%</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>20%</td>
+    <td>50%</td>
   </tr>
   <tr>
     <td>后端</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>100%</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>交互</td>
     <td>UI设计稿</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>100%</td>
+    <td>-</td>
   </tr>
   <tr>
     <td rowspan="4">测试</td>
