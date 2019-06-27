@@ -160,7 +160,6 @@
 
 - @Xungerrrr (Dashboard)
 
-<<<<<<< HEAD
   <img src="./image/4.png" width="400">
 
 - @smiletomisery (Dashboard)
@@ -174,11 +173,9 @@
   <img src="./image/lhr1.png" width="400">
 
   <img src="./image/lhr2.png" width="400">
-=======
-	<img src="./image/4.png" width="400">
+
 
 - @zhulinyin (UI/UX Design & Frontend & Dashboard)
 
 	[UI设计原型](https://org.modao.cc/app/f0c7b693d6e05ec50b0dd9c62a96c0140c8f5dd2)
 	<img src="./image/5.png" width="400"> <img src="./image/6.png" width="400"> 
->>>>>>> 96aed748ddda996b0ba1545ae9032b8c75743ea5
