@@ -34,6 +34,7 @@
   * 9.1 [测试方案](09-01-Testing-plan)
   * 9.2 [后端api测试](09-02-Backend-Api-Testing)
   * 9.3 [综合测试](09-03-Integrated-Testing)
+  * 9.4 [回归测试](09-04-regress-Testing)
 * 10、成品展示
   * 10.1 XX短视频
   * 10.2 XX短视频
