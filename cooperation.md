@@ -1,3 +1,5 @@
+*注：我们采用了“系统分析与设计”课程的项目作为“软件工程综合实验”的课程设计。两课程的团队成员相同。*
+
 ## 团队分工
 
 [分工表](https://code-flows-in-you.github.io/Dashboard/02-team-profile#2%E5%9B%A2%E9%98%9F%E5%88%86%E5%B7%A5)
