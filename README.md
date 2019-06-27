@@ -1,5 +1,20 @@
 # README  
+## 软件设计综合实验 检查列表
+
+[检查列表](https://code-flows-in-you.github.io/Dashboard/00-software-design-project)
+
+主要的检查内容
+
+## 项目文档Dashboard
+
+[Dashboard](https://code-flows-in-you.github.io/Dashboard/)
+
+整个项目的所有文档
+
+
+
 ## 说明
+
 本项目的dashboard使用Github Pages与Jekyll直接将markdown文件渲染成html    
 只需添加更改markdowm文件即可改变网站的内容，免去繁琐的命令部署过程  
 
