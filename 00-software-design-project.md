@@ -4,6 +4,8 @@
 
     访问地址：**(待部署)**
 
+* [《用户手册》](manual.md)
+
 * [《软件需求规格说明书》](software-requirement.md)
 
 * [《软件设计文档》](software-design.md)
