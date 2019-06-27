@@ -33,6 +33,7 @@
 * 9、测试
   * 9.1 [测试方案](09-01-Testing-plan)
   * 9.2 [后端api测试](09-02-Backend-Api-Testing)
+  * 9.3 [综合测试](09-03-Integrated-Testing)
 * 10、成品展示
   * 10.1 XX短视频
   * 10.2 XX短视频
@@ -41,6 +42,7 @@
   * [iteration1-meeting (2019/05/25)](X1-iteration1-meeting)
 * X2 [KANBAN](https://github.com/orgs/code-flows-in-you/projects)
 * X3 Tech/Work Report
+  * [16340115-强大的接口测试与压力测试工具——postman&jmeter](https://blog.csdn.net/diceroller/article/details/93768974)
   * [16340116-后端部署](https://alicizations.github.io/2019/05/07/Nginx-uwsgi-Django%E9%83%A8%E7%BD%B2/)
   * [16340117-前端分页功能的实现](https://zhulinyin.github.io/2019/06/26/%E4%BD%BF%E7%94%A8el-pagination%E5%AE%9E%E7%8E%B0%E5%88%86%E9%A1%B5/)
 * X4 Final Report
