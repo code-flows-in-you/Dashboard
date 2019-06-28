@@ -6,7 +6,7 @@
 | 学号 | github-id | 标题 | issue url |
 | ---- | --------- | ---- | --------- |
 | 16340115 | smiletomisery | 领域模型图问题  |     https://github.com/earn-big-money/Dashboard/issues/1      |
-|          |               |                |                                                      |
+| 16340117 | zhulinyin | 需求审计 | https://github.com/kesongyueproject/EarnSpareMoney/issues/38 |
 |      |           |      |           |
 |      |           |      |           |
 |      |           |      |           |
