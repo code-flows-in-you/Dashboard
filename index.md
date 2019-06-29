@@ -37,8 +37,7 @@
   * 9.3 [综合测试](09-03-Integrated-Testing)
   * 9.4 [回归测试](09-04-regress-Testing)
 * 10、成品展示
-  * 10.1 XX短视频
-  * 10.2 XX短视频
+  * 10.1 [视频](https://www.bilibili.com/video/av57230829/)
 * X1 meeting-records
   * [inception meeting (2019/03/30)](X1-inception-meeting)
   * [iteration1-meeting (2019/05/25)](X1-iteration1-meeting)
