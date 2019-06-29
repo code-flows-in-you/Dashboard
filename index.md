@@ -51,4 +51,6 @@
 * X5 Final Report
   * [16340116](https://alicizations.github.io/2019/06/26/%E7%B3%BB%E5%88%86%E9%A1%B9%E7%9B%AE%E4%B8%AA%E4%BA%BA%E6%8A%A5%E5%91%8A/)
   * [16340117](https://zhulinyin.github.io/2019/06/26/16340117-zhulinyin/)
+  * [16340141](<https://yuuoniy.github.io/2019/06/29/swasd-final-report/>)
   * [小组分工与贡献率说明](cooperation.md)
+
