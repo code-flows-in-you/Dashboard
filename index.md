@@ -49,6 +49,7 @@
   * [16340117-前端分页功能的实现](https://zhulinyin.github.io/2019/06/26/%E4%BD%BF%E7%94%A8el-pagination%E5%AE%9E%E7%8E%B0%E5%88%86%E9%A1%B5/)
   * [16340141-如何使用vue 及相关技术栈快速构建前端](https://yuuoniy.github.io/2019/06/29/vue-learning/)
   * [16340141-vue 组件的生命周期及钩子函数](https://yuuoniy.github.io/2019/06/30/vue-lifecycle/)
+  * [16340109-用例建模总结](https://xungerrrr.com/2019/06/30/%E7%94%A8%E4%BE%8B%E5%BB%BA%E6%A8%A1%E6%80%BB%E7%BB%93/)
 * X5 Final Report
   * [16340115](FinalReport/16340115)
   * [16340116](https://alicizations.github.io/2019/06/26/%E7%B3%BB%E5%88%86%E9%A1%B9%E7%9B%AE%E4%B8%AA%E4%BA%BA%E6%8A%A5%E5%91%8A/)
