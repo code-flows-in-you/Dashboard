@@ -24,8 +24,8 @@
   * [7.4 Architecture design(架构设计)](07-04-Architecture-design)
   * 7.5 Usecase design(用例设计)
     * [7.5.1 注册登录用例设计](07-05-01-Register-Login-Design)
-    * 7.5.1 发起问卷调查用例设计
-    * 7.5.2 完成问卷任务用例设计
+    * 7.5.2 发起问卷调查用例设计
+    * 7.5.3 完成问卷任务用例设计
 * 8、生产规范与指南
   * 8.1 [代码规范](08-01-coding-standard)
   * 8.2 [REST API 设计规范](08-02-RESTful-api-design-standard)
@@ -47,6 +47,7 @@
 * X2 [KANBAN](https://github.com/orgs/code-flows-in-you/projects)
 * X3 [auditing-records](X3-auditing)
 * X4 Tech/Work Report
+  * [16340109-用例建模总结](https://xungerrrr.com/2019/06/30/%E7%94%A8%E4%BE%8B%E5%BB%BA%E6%A8%A1%E6%80%BB%E7%BB%93/)
   * [16340114-使用vuex管理用户信息](https://illidan27.github.io/2019/06/30/%E4%BD%BF%E7%94%A8vuex%E7%AE%A1%E7%90%86%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF/)
   * [16340115-强大的接口测试与压力测试工具——postman&jmeter](https://blog.csdn.net/diceroller/article/details/93768974)
   * [16340116-后端部署](https://alicizations.github.io/2019/05/07/Nginx-uwsgi-Django%E9%83%A8%E7%BD%B2/)
@@ -54,6 +55,7 @@
   * [16340141-如何使用vue 及相关技术栈快速构建前端](https://yuuoniy.github.io/2019/06/29/vue-learning/)
   * [16340141-vue 组件的生命周期及钩子函数](https://yuuoniy.github.io/2019/06/30/vue-lifecycle/)
 * X5 Final Report
+  * [16340109](FinalReport/16340109)
   * [16340115](FinalReport/16340115)
   * [16340116](https://alicizations.github.io/2019/06/26/%E7%B3%BB%E5%88%86%E9%A1%B9%E7%9B%AE%E4%B8%AA%E4%BA%BA%E6%8A%A5%E5%91%8A/)
   * [16340117](https://zhulinyin.github.io/2019/06/26/16340117-zhulinyin/)

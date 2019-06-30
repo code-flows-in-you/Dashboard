@@ -134,12 +134,12 @@
   </tr>
   <tr>
     <td>审计记录</td>
-    <td>-</td>
-    <td>-</td>
-    <td>100%</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>16.6%</td>
+    <td>16.6%</td>
+    <td>16.6%</td>
+    <td>16.7%</td>
+    <td>16.7%</td>
+    <td>16.7%</td>
   </tr>
   <tr>
     <td>会议记录</td>
@@ -160,7 +160,7 @@
 
 - @Xungerrrr (Dashboard)
 
-  <img src="./image/4.png" width="400">
+  <img src="./image/lxy.png" width="400">
 
 - @smiletomisery (Dashboard)
   
