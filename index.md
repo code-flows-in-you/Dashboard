@@ -38,6 +38,7 @@
   * 9.4 [回归测试](09-04-regress-Testing)
 * 10、成品展示
   * 10.1 [视频](https://www.bilibili.com/video/av57230829/)
+  * 10.2 [视频(带字幕注释)](https://www.bilibili.com/video/av57281977)
 * X1 meeting-records
   * [inception meeting (2019/03/30)](X1-inception-meeting)
   * [iteration1-meeting (2019/05/25)](X1-iteration1-meeting)
@@ -46,6 +47,7 @@
 * X2 [KANBAN](https://github.com/orgs/code-flows-in-you/projects)
 * X3 [auditing-records](X3-auditing)
 * X4 Tech/Work Report
+  * [16340114-使用vuex管理用户信息](https://illidan27.github.io/2019/06/30/%E4%BD%BF%E7%94%A8vuex%E7%AE%A1%E7%90%86%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF/)
   * [16340115-强大的接口测试与压力测试工具——postman&jmeter](https://blog.csdn.net/diceroller/article/details/93768974)
   * [16340116-后端部署](https://alicizations.github.io/2019/05/07/Nginx-uwsgi-Django%E9%83%A8%E7%BD%B2/)
   * [16340117-前端分页功能的实现](https://zhulinyin.github.io/2019/06/26/%E4%BD%BF%E7%94%A8el-pagination%E5%AE%9E%E7%8E%B0%E5%88%86%E9%A1%B5/)
