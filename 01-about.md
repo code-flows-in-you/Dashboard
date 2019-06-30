@@ -13,6 +13,7 @@ title: 关于项目
 | :--: | :-------: | :------: | :---: |
 | v1.0 | 2019-5-6  |   模板   | pachi |
 | v1.1 | 2019-6-27 | 完成内容 |  Ray  |
+|v1.2|2019-6-30|添加图片|Ray|
 
 ## 1、Introduction
 
@@ -26,14 +27,8 @@ title: 关于项目
 ## 3、Iterations
 
 
-* 需求分析任务，包括业务调查、产品策划、需求文档编写、原型设计
-* 设计与开发任务，包括原型验证、数据库设计、架构设计、框架搭建、模块设计、模块编码
-* 测试与 DevOps 任务，包括各类开发规范组织、开发与测试环境与工具、CI/CD 实施
-* 技术学习或其他任务。
+* Inception (From 2019/03/30 Week5)
 
-以下是每个迭代任务规划的模板：
-
-* Inception
     - goal: 就产品范围、愿景展开讨论
     - work:
         - 产品调查
@@ -41,28 +36,36 @@ title: 关于项目
         - 团队组织
         - 技术学习
         - 明确分工
-    - 项目启动会议：所有人
+        - 明确业务、项目范围
+    
 
-* Iteration 1 
+![Inception](AboutMindMap/Inception.png)
+    
+* Iteration 1  (From 2019/05/25 Week13)
     - goals: 进一步明确需求。实现项目雏形
     - Artifacts:
-        - 需求雏形
+        - 需求设计文档雏形
         - 完成UI初稿
-        - 后端
+        - 后端框架搭建
         - 数据库、API设计
+![Iteration1](AboutMindMap/Iteration1.png)
 
-* Iteration 2
+* Iteration 2  (From 2019/05/31 Week14)
     - goals: 进一步完善项目制品
     - Artifacts:
         - 前端页面框架
         - 前端登录注册功能
-        - 完成UI初稿
+        - UI设计稿第二版
         - 完善后端
         - 完善需求设计文档
+        - 细分业务
+![Iteration2](AboutMindMap/Iteration2.png)
 
-* Iteration 3 
+* Iteration 3  (From 2019/06/11Week16)
     - goals: 完成最终制品
      - Artifacts:
         - 前端完善问卷、问题功能，完成个人中心页
         - 前端部署
+        - 测试
         - 补充文档
+![Iteration3](AboutMindMap/Iteration3.png)
