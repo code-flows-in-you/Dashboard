@@ -48,6 +48,7 @@ title: 关于项目
         - 完成UI初稿
         - 后端框架搭建
         - 数据库、API设计
+
 ![Iteration1](AboutMindMap/Iteration1.png)
 
 * Iteration 2  (From 2019/05/31 Week14)
@@ -59,6 +60,7 @@ title: 关于项目
         - 完善后端
         - 完善需求设计文档
         - 细分业务
+
 ![Iteration2](AboutMindMap/Iteration2.png)
 
 * Iteration 3  (From 2019/06/11Week16)
@@ -68,4 +70,5 @@ title: 关于项目
         - 前端部署
         - 测试
         - 补充文档
+
 ![Iteration3](AboutMindMap/Iteration3.png)
